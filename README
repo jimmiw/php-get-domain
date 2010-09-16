@@ -1,0 +1,7 @@
+Two simple functions for finding the top level domain and the domain, using
+php.
+
+Help / inspired by:
+http://www.php.net/manual/en/function.preg-match.php
+
+so kudos to the guy who wrote the PHP documentation for preg_match.
